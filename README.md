@@ -56,7 +56,7 @@ Enables interactive and customized analysis
 
 # Screenshots 
 
-
+https://github.com/YashikaChoudhary28/Mobile-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png
 
   
   
